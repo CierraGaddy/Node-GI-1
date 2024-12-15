@@ -1,0 +1,8 @@
+My name is Cierra Gaddy, I live in Charlotte NC
+
+Command Use:
+node app.js add --title="Meeting Notes" --body="Discussed project roadmap."
+node app.js remove --title="Meeting Notes"
+node app.js list
+node app.js read --title="Meeting Notes"
+node app.js edit --title="Meeting Notes" --newBody="Updated discussion on project timeline."
